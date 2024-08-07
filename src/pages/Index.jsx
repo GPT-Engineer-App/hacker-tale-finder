@@ -54,7 +54,7 @@ const Index = () => {
                 variant="outline"
                 size="sm"
                 asChild
-                className="bg-blue-500 text-white hover:bg-blue-600 border-blue-600"
+                className="bg-green-500 text-white hover:bg-green-600 border-green-600"
               >
                 <a href={story.url} target="_blank" rel="noopener noreferrer">
                   Read More <ExternalLink className="ml-2 h-4 w-4" />
